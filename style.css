@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-section {
+  background-image: url("https://res.cloudinary.com/dw2i2sitt/image/upload/v1666015752/aravind-bg_mxtlxu.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#logo {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+#nav-link0 {
+  font-weight: bold;
+  font-family: Roboto;
+  color: red;
+}
+
+#nav-link1 {
+  font-weight: bold;
+  font-family: Roboto;
+  color: red;
+}
+
+#nav-link2 {
+  font-weight: bold;
+  font-family: Roboto;
+  color: red;
+}
+
+#nav-link3 {
+  font-weight: bold;
+  font-family: Roboto;
+  color: red;
+}
+
+#nav-link4 {
+  font-weight: bold;
+  font-family: Roboto;
+  color: red;
+}
+
+.main {
+  height: 93vh;
+}
+
+.main-section-intro {
+  color: white;
+  font-size: 24px;
+}
+
+.main-section-myname {
+  font-size: 70px;
+  color: white;
+}
+
+.main-section-work {
+  color: white;
+  font-size: 30px;
+}
+
+.main-section-role {
+  color: red;
+  font-weight: bold;
+}
+
+/* .main-section-myimg {
+    border-radius: 90px;
+    height: 200px;
+    text-align: center;
+} */
+
+.about-me-main-heading {
+  text-align: center;
+}
+
+.who-main {
+  text-align: center;
+  font-size: 20px;
+}
+
+.who-am-i {
+  color: red;
+}
+
+.my-img {
+  height: 400px;
+  /* width: ; */
+  border-radius: 12px;
+}
+
+.about-me-my-info {
+  font-size: 30px;
+}
+
+.about-me-my-info-para {
+  font-weight: bold;
+}
+
+.skills-programing {
+  font-size: 24px;
+}
+
+.bar {
+  width: 80%;
+}
+
+.bar-percentage-HTML {
+  background-color: gray;
+}
+
+.bar-percentage-html {
+  background-color: red;
+  width: 60%;
+  padding: 3px;
+}
+
+.bar-percentage-css {
+  background-color: red;
+  width: 40%;
+  padding: 3px;
+}
+
+.bar-percentage-php {
+  background-color: red;
+  width: 20%;
+  padding: 3px;
+}
+
+.bar-percentage-js {
+  background-color: red;
+  width: 50%;
+  padding: 3px;
+}
+
+.bar-percentage-bs {
+  background-color: red;
+  width: 70%;
+  padding: 3px;
+}
+
+.bar-lang {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+/* footer */
+
+.contact-title {
+  color: white;
+}
+
+.contact-sub-title {
+  color: white;
+}
+
+.footer-bg {
+  background-color: #0d2436;
+}
+
+.footer-img {
+  height: 60px;
+  border-radius: 100px;
+  margin-right: 10px;
+}
+
+.footer-txt-col {
+  color: #cced00;
+  font-size: 20px;
+}
+
+.footer-txt-info {
+  color: #9aa5b1;
+  font-size: 16px;
+}
+
+.footer-copyright-bg {
+  background-color: #001c32;
+  font-size: 18px;
+}
